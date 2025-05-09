@@ -24,7 +24,7 @@ Full-stack developer. Backend-heavy. UI-conscious. Built real apps that solve re
 📌 Tech: Python, Django  
 🧠 Highlights: Advanced folder structure, modular design
 
-![django-structurator screenshot](.\assets\images\django-structurator.png)
+![django-structurator screenshot](./assets/images/django-structurator.png)
 
 🔗 [Repo Link](https://github.com/maulik-0207/django-structurator)
 
@@ -36,7 +36,7 @@ Full-stack developer. Backend-heavy. UI-conscious. Built real apps that solve re
 📌 Tech: Python, Tkinter, Selenium, Pillow  
 🧠 Highlights: Google scraping, custom file type & size
 
-![image scraper screenshot](.\assets\images\images-downloader.png)
+![image scraper screenshot](./assets/images/images-downloader.png)
 
 <!-- 🔗 [Repo Link](#) -->
 
@@ -48,9 +48,9 @@ Full-stack developer. Backend-heavy. UI-conscious. Built real apps that solve re
 📌 Tech: Django, Celery, Redis, MySQL, Razorpay, HTMX  
 🧠 Highlights: Payment gateway, job queues, marketplace logic
 
-![thememart screenshot 1](.\assets\images\thememart_1.png)  
+![thememart screenshot 1](./assets/images/thememart_1.png)  
 
-![thememart screenshot 2](.\assets\images\thememart_2.png)  
+![thememart screenshot 2](./assets/images/thememart_2.png)  
 
 <!-- 🎥 [Watch Demo](path/to/thememart-demo.mp4) -->
 
@@ -64,9 +64,9 @@ Full-stack developer. Backend-heavy. UI-conscious. Built real apps that solve re
 📌 Tech: DRF, React, PostgreSQL, GeoDjango, Leaflet, Tailwind, Shadcn
 🧠 Highlights: Geolocation search, map UI, full stack integration
 
-![locify screenshot](.\assets\images\locify_1.png) 
+![locify screenshot](./assets/images/locify_1.png) 
 
-![locify screenshot](.\assets\images\locify_2.png) 
+![locify screenshot](./assets/images/locify_2.png) 
 
 <!-- 🎥 [Watch Demo](path/to/locify-demo.mp4) -->
 
