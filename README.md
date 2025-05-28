@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Maulik Thumar
+# 👋 Hey, I'm Maulik.
 
 Full-stack developer. Backend-heavy. UI-conscious. Built real apps that solve real problems.
 
@@ -76,4 +76,4 @@ Full-stack developer. Backend-heavy. UI-conscious. Built real apps that solve re
 
 ## 📫 Contact
 
-[x.com](https://x.com/Maulik_0207) · [Email](mailto:maulikthumar785@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/maulik0207) · [Email](mailto:maulikminds@gmail.com) · [x.com](https://x.com/Maulik_0207)
