@@ -8,7 +8,9 @@
 
 ![image scraper screenshot](./images/PROJ_1_1.png)
 
-⬇️ Can't share because scraping tool requires frequent updates.
+⬇️ [Download EXE](./exe_files/Images%20Downloader.exe)  
+
+**Note:** Scraping Tool requires frequent updates so if any error occurs means it is not updated. Last updated on 10/06/25.
 
 ---
 
