@@ -74,6 +74,8 @@ Full-stack developer. Backend-heavy. UI-conscious. Built real apps that solve re
 
 ---
 
+[More Projects...](./Projects/) 
+
 ## 📫 Contact
 
-[LinkedIn](https://www.linkedin.com/in/maulik0207) · [Email](mailto:maulikminds@gmail.com) · [x.com](https://x.com/Maulik_0207)
+[Email](mailto:maulikminds@gmail.com) · [x.com](https://x.com/Maulik_0207)
