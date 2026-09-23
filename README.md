@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Maulik Thumar&fontSize=90&animation=fadeIn" />
-</div>
-
 <h1 align="center">Hi there, I'm Maulik Thumar! 👋</h1>
 <h3 align="center">AI Engineer | Python Backend & AI/ML | FastAPI • Django • SQL • PyTorch | Machine Learning • LLMs • RAG</h3>
 
